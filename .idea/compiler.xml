@@ -13,8 +13,5 @@
         <module name="logistics-manager-web" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="logistics-manager-web" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
